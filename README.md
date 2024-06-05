@@ -1,7 +1,7 @@
 # Alphanumeric Sorting in R 
 # JM {06/04/2024}
 
-Alphanumeric sorting without the use of fancy tools like gtools. 
+Alphanumeric sorting without the use of fancy tools
 
 
 ```r
