@@ -1,5 +1,5 @@
 # Alphanumeric Sorting in R 
-# JM {06/04/2024}
+## JM {06/04/2024}
 
 Alphanumeric sorting without the use of fancy tools
 
